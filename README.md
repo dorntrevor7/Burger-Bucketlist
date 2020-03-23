@@ -13,7 +13,7 @@ I want to generate a webpage that displays burgers that IO would like to try so 
 
 The following image displays the example:
 
-![SC of Burger Bucketlist](/imgs/SC-BURGER.png)
+![SC of Burger Bucketlist](./imgs/SC-BURGER.png)
 
 <br>
 
