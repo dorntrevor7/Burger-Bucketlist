@@ -1,1 +1,1 @@
-# Burger-Bucketlist
+# Burger Bucketlist

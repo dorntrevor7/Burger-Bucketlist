@@ -1,7 +1,7 @@
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background: #ffffff;
 }
 
 .label {
@@ -16,4 +16,14 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+}
+
+body{
+  color: white;
+  background-image: url(https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+}
+
+button{
+  border-radius: 5px;
+  background-color: goldenrod;
 }
